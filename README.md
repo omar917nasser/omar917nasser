@@ -57,7 +57,7 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
       <br><b>TensorFlow 2.x</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="48" height="48" alt="Scikit-learn" />
+      <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" width="48" height="48" alt="Scikit-learn" />
       <br><b>Scikit‑learn</b>
     </td>
     <td align="center" width="120">
