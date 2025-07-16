@@ -40,7 +40,7 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.svgporn.com/logos/python.svg" width="48" height="48" alt="Python" />
-      <br><b>Python 3</b>
+      <br><b>Python</b>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
