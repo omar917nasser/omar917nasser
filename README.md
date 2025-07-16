@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm <strong>Omar Nasser</strong> 👨‍💻</h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/omar-nasser-pro">
+  <a href="https://www.linkedin.com/in/omar-nasser-pro">
     <img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/omar.nasser.91/">
