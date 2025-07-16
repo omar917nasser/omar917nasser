@@ -47,12 +47,8 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
       <br><b>NumPy & Pandas</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="48" height="48" alt="C/C++" />
-      <br><b>C / C++</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C# / .NET" />
-      <br><b>C# / .NET</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" />
+      <br><b>Pandas</b>
     </td>
   </tr>
   <tr>
@@ -65,12 +61,8 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
       <br><b>Scikit‑learn</b>
     </td>
     <td align="center" width="120">
-      <img src="https://avatars.githubusercontent.com/u/139944330?s=200&v=4" width="48" height="48" alt="LangChain" />
+      <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" width="48" height="48" alt="LangChain" />
       <br><b>LangChain</b>
-    </td>
-     <td align="center" width="120">
-      <img src="https://avatars.githubusercontent.com/u/105264116?s=200&v=4" width="48" height="48" alt="Vector DBs" />
-      <br><b>Vector DBs</b>
     </td>
   </tr>
    <tr>
@@ -86,10 +78,6 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="MS SQL Server" />
       <br><b>MS SQL Server</b>
     </td>
-     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br><b>Linux</b>
-    </td>
   </tr>
   <tr>
     <td align="center" width="120">
@@ -103,10 +91,6 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
       <br><b>Jupyter</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="48" height="48" alt="Docker" />
-      <br><b>Docker</b>
     </td>
   </tr>
 </table>
