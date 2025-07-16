@@ -39,12 +39,12 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.svgporn.com/logos/python.svg" width="48" height="48" alt="Python 3" />
+      <img src="https://cdn.svgporn.com/logos/python.svg" width="48" height="48" alt="Python" />
       <br><b>Python 3</b>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy & Pandas" />
-      <br><b>NumPy & Pandas</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+      <br><b>NumPy</b>
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="48" height="48" alt="Pandas" />
