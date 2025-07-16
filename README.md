@@ -36,100 +36,62 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
 ---
 <h2 align="center">⚙️ My Tech Stack</h2>
 
-### 🔡 Core Languages
 <table align="center">
-  <tr align="center">
-    <td>
-      <b>Python 3</b><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.svgporn.com/logos/html-5.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
     </td>
-    <td>
-      <b>NumPy & Pandas</b><br><br>
-      <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+    <td align="center" width="96">
+        <img src="https://cdn.svgporn.com/logos/css-3.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
     </td>
-    <td>
-      <b>C / C++</b><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+    <td align="center" width="96">
+        <img src="https://cdn.svgporn.com/logos/tensorflow.svg" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow 2.x
     </td>
-    <td>
-      <b>C# / .NET</b><br><br>
-      <img height="64px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <td align="center" width="96">
+        <img src="https://cdn.svgporn.com/logos/python.svg" width="48" height="48" alt="Python" />
+      <br>Python 3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="48" height="48" alt="C++" />
+      <br>C / C++
+    </td>
+     <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+      <br>Data Science
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C# / .NET
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+     <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
   </tr>
 </table>
-
-<br>
-
-### 🤖 ML & AI Frameworks
-<table align="center">
-  <tr align="center">
-    <td>
-      <b>TensorFlow 2.x</b><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-    </td>
-    <td>
-      <b>Scikit‑learn</b><br><br>
-      <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg">
-    </td>
-    <td>
-      <b>LangChain</b><br><br>
-      <img height="64px" src="https://avatars.githubusercontent.com/u/139944330?s=200&v=4">
-    </td>
-    <td>
-      <b>Vector DBs</b><br><br>
-      <img height="64px" src="https://avatars.githubusercontent.com/u/105264116?s=200&v=4">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 🗄️ Databases & OS
-<table align="center">
-  <tr align="center">
-    <td>
-      <b>MongoDB</b><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
-    </td>
-    <td>
-      <b>MySQL</b><br><br>
-      <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    </td>
-    <td>
-      <b>MS SQL Server</b><br><br>
-      <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-    </td>
-    <td>
-      <b>Linux</b><br><br>
-      <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 🛠️ Dev Tools & IDEs
-<table align="center">
-  <tr align="center">
-    <td>
-      <b>Git</b><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-    </td>
-    <td>
-      <b>VS Code</b><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-    </td>
-    <td>
-      <b>Jupyter Notebook</b><br><br>
-      <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    </td>
-    <td>
-      <b>Docker</b><br><br>
-      <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
-    </td>
-  </tr>
-</table>
-
 
 
 ---
