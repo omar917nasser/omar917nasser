@@ -104,11 +104,3 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
 - 🕵️ I treat bugs like crossword puzzles and caffeine like a sidekick. ☕🧩
 
 ---
-
-## 🌟 Big Dreams
-
-- Next Stop: Launch an AI product so practical it feels like magic—and maybe a tad groundbreaking. 🎩✨
-- Ultimate Goal: Co‑found a startup that marries AI with human passions—healthcare, education, creativity… you name it! 🚀❤️
-- 2‑Year Plan: Level up as a production-ready AI Engineer, drop some open-source gold, and dazzle at a conference keynote. 🎤🏆
-
----
