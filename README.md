@@ -27,11 +27,11 @@
 
 ## 🎓 About Me
 I’m a **Senior Computer Science & Artificial Intelligence student** who loves tackling real-world challenges with code and data.  
-- 💻 Deeply curious about AI & machine learning — especially how intelligent systems can make life easier.
-- 🤖 I firmly believe AI should be smart enough to help, kind enough to understand, and fun enough to make you say "whoa". Why not all three?  
-- ☕ I turn chaotic, messy data into glorious, goosebump-worthy insights—with nothing but Python and a strong cup of coffee. 
+-  Deeply curious about AI & machine learning — especially how intelligent systems can make life easier.
+-  I firmly believe AI should be smart enough to help, kind enough to understand, and fun enough to make you say "whoa". Why not all three?  
+-  I turn chaotic, messy data into glorious, goosebump-worthy insights—with nothing but Python and a strong cup of coffee. 
 
-> ***No amount of knowledge is enough knowledge**.* 🧠  
+> ***No amount of knowledge is enough knowledge**.* 
 
 ---
 <h2 align="center">⚙️ My Tech Stack</h2>
@@ -98,9 +98,9 @@ I’m a **Senior Computer Science & Artificial Intelligence student** who loves 
 
 ---
 
-## 🤓 Fun Facts
-- 🔍 Debugging ritual: stare ➡️ panic ➡️ boom — works every time!
-- 🎧 Friday nights = dataset deep‑dives + tech podcast marathons. Nerd fuel! ☕🎙️
-- 🕵️ I treat bugs like crossword puzzles and caffeine like a sidekick. ☕🧩
-
+## Fun Facts
+-  Debugging ritual: stare ➡️ panic ➡️ boom — works every time!
+-  Friday nights = dataset deep‑dives + tech podcast marathons. Nerd fuel! 
+-  I treat bugs like crossword puzzles and caffeine like a sidekick. 
+  
 ---
